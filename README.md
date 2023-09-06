@@ -7,11 +7,11 @@ Welcome to my personal portfolio website's repo! This website serves as a showca
 
 ## Table of Contents on website
 
-- [About Me](#about-me)
-- [Skills](#skills)
-- [certificates](#certificates)
-- [Projects](#projects)
-- [Contact](#contact)
+- About me
+- Skills
+- Certificates
+- Projects
+- Contact
 
 ## About Me
 
